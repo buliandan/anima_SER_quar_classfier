@@ -13,7 +13,7 @@
 * 欢迎来玩~~
 
 # the cite in my classfier 实验基础
-|Baseline:[See Notebook for Code and Explanations](https://nbviewer.jupyter.org/github/IliaZenkov/transformer_cnn_parallel_audio_classification/blob/main/notebooks/Parallel_is_All_You_Want.ipynb)
+* Baseline:[See Notebook for Code and Explanations](https://nbviewer.jupyter.org/github/IliaZenkov/transformer_cnn_parallel_audio_classification/blob/main/notebooks/Parallel_is_All_You_Want.ipynb)
 @misc{Zenkov-Transformer-CNN-SER,
   author = {Zenkov, Ilia},
   title = {transformer-cnn-emotion-recognition},
@@ -22,7 +22,7 @@
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/QiaFan/transformer-cnn-emotion-recognition}},
 }
-|selfattention:- Pytorch implementation of ["Attention Is All You Need---NIPS2017"](https://arxiv.org/pdf/1706.03762.pdf)
+* selfattention:- Pytorch implementation of ["Attention Is All You Need---NIPS2017"](https://arxiv.org/pdf/1706.03762.pdf)
 (ps:资料从FightingCV获得，找不到引用，在此推荐他们的公众号和github
 作为[**FightingCV公众号**](https://mp.weixin.qq.com/s/m9RiivbbDPdjABsTd6q8FA)和 **[FightingCV-Paper-Reading](https://github.com/xmu-xiaoma666/FightingCV-Paper-Reading)** 的补充，本项目的宗旨是从代码角度，实现🚀**让世界上没有难读的论文**🚀。
 -->
