@@ -1,0 +1,14 @@
+librosa==0.9.1
+numpy==1.21.5
+numpy==1.21.6
+pandas==1.2.4
+pydub==0.25.1
+scikit_learn==1.0.2
+torch==1.11.0
+
+other packages:
+os
+glob
+pydub
+wave
+io

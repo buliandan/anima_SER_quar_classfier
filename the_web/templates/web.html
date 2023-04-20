@@ -1,0 +1,44 @@
+
+
+<!DOCTYPE html>
+<html style="background-color: rgb(134, 173, 246);">
+<title>Upload File</title>
+<h1 style="text-align: center;display: flex;flex-direction: column;">音频上传</h1>
+<form class="form" method=post enctype=multipart/form-data>
+     <input class="file" type=file name=file>
+     <div class="block">
+     <input class="submit" type=submit value=上传>
+     <text class="output">输出结果:{{hinfer_res}}</text></div>
+</form>
+</html>
+<style>
+
+     .form{
+          display: flex;
+          flex-direction: row;
+          text-align: center;
+     }
+
+     .block{
+          position: absolute;
+          display: flex;
+          left: 65%;
+          top:50%;
+          text-align: center;
+          font-size: xx-large;
+     }
+     .submit{
+          font-size:xx-large;
+          top:50%;
+          left: 65%;
+
+     }
+     .file{
+          position: absolute;
+          display: flex;
+          font-size: xx-large;
+          left: 20%;
+          top:50%;
+
+     }
+</style>
