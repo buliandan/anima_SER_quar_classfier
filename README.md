@@ -43,3 +43,4 @@ If you find this work useful in your own research, please cite as follows:
   howpublished = {\url{https://github.com/buliandan/anima_SER_quar_classfier}},
 }
 ```
+*上面的一切成果来源于我个人的本科毕设研究（除标明代码来源外的部分）。在此分享，欢迎交流。目前学校所在地：北京。
